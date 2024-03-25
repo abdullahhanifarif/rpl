@@ -1,0 +1,14 @@
+{
+  "name": "rpl-kelompok-2-uts",
+  "version": "1.0.0",
+  "description": "TDD untuk fungsi pengecekan bilangan prima",
+  "main": "primeNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kelompok 2",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
