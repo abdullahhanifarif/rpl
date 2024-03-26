@@ -16,7 +16,7 @@ function isPrime(number) {
         // Jika tidak ditemukan pembagi, bilangan prima
         return true;
     } else {
-        return 'inputannya salah'
+        return "it's not a number";
     }
 }
 
